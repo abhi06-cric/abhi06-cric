@@ -6,10 +6,6 @@ Quick personalize checklist:
 -->
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Software%20Developer-Practical%20Builder-0F766E?style=for-the-badge" alt="Software Developer badge" />
   <img src="https://img.shields.io/badge/Focus-Clean%20Code-F97316?style=for-the-badge" alt="Focus badge" />
   <img src="https://img.shields.io/badge/Mindset-Learn%20and%20Ship-111827?style=for-the-badge" alt="Mindset badge" />
