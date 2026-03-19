@@ -1,0 +1,62 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">Abhishek Regidi GitHub profile banner</title>
+  <desc id="bannerDesc">A dark banner with teal and orange accents, a personal headline, and a terminal-inspired card.</desc>
+  <defs>
+    <linearGradient id="bg" x1="84" y1="32" x2="1110" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <radialGradient id="glowTeal" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1005 64) rotate(129.72) scale(262.362 292.274)">
+      <stop stop-color="#2DD4BF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowOrange" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(198 286) rotate(23.54) scale(197.431 142.888)">
+      <stop stop-color="#FB923C" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#FB923C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="67" y1="191" x2="869" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E" stop-opacity="0.52"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0.1"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#94A3B8" stroke-opacity="0.16"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <circle cx="1014" cy="64" r="222" fill="url(#glowTeal)"/>
+  <circle cx="192" cy="286" r="138" fill="url(#glowOrange)"/>
+  <path d="M0 258C133 210 263 203 392 214C515 224 636 253 758 261C884 270 1039 256 1200 195V320H0V258Z" fill="url(#wave)"/>
+
+  <rect x="64" y="52" width="146" height="34" rx="17" fill="#0B1324" stroke="#2DD4BF" stroke-opacity="0.45"/>
+  <text x="82" y="74" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">@abhi06-cric</text>
+
+  <text x="64" y="132" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="1.4">ABHISHEK</text>
+  <text x="64" y="186" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="1.4">REGIDI</text>
+
+  <text x="66" y="223" fill="#2DD4BF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3">SOFTWARE DEVELOPER</text>
+  <text x="66" y="253" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building practical projects with clean code, steady learning,</text>
+  <text x="66" y="279" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">and sharper polish over time.</text>
+
+  <g transform="translate(748 48)">
+    <rect width="388" height="224" rx="26" fill="#0A1323" stroke="#334155"/>
+    <rect x="18" y="18" width="352" height="40" rx="16" fill="#111C31"/>
+    <circle cx="46" cy="38" r="6" fill="#FB7185"/>
+    <circle cx="68" cy="38" r="6" fill="#F59E0B"/>
+    <circle cx="90" cy="38" r="6" fill="#34D399"/>
+    <text x="122" y="42" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="13">profile.exe</text>
+
+    <text x="28" y="87" fill="#E2E8F0" font-family="Consolas, Menlo, monospace" font-size="16">$ focus --now</text>
+    <text x="28" y="114" fill="#2DD4BF" font-family="Consolas, Menlo, monospace" font-size="15">&gt; build useful things</text>
+    <text x="28" y="138" fill="#2DD4BF" font-family="Consolas, Menlo, monospace" font-size="15">&gt; improve structure</text>
+    <text x="28" y="162" fill="#2DD4BF" font-family="Consolas, Menlo, monospace" font-size="15">&gt; ship visible progress</text>
+
+    <rect x="28" y="184" width="97" height="26" rx="13" fill="#0F766E"/>
+    <rect x="135" y="184" width="84" height="26" rx="13" fill="#111827"/>
+    <rect x="229" y="184" width="78" height="26" rx="13" fill="#F97316"/>
+    <text x="49" y="201" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">clean code</text>
+    <text x="159" y="201" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">learning</text>
+    <text x="255" y="201" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">shipping</text>
+  </g>
+</svg>
