@@ -6,7 +6,7 @@ Quick personalize checklist:
 -->
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Abhishek Regidi GitHub profile banner" width="100%" />
+  <img src="./assets/profile-banner.svg" width="100%" />
 </p>
 
 <p align="center">
