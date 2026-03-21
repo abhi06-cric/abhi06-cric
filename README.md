@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Abhishek Regidi GitHub profile banner" width="100%" />
-</p>
+
 
 <h1 align="center">Abhishek Regidi</h1>
 
